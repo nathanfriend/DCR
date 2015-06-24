@@ -9,3 +9,28 @@
 .top-buffer { 
     margin-top:8px; 
 }
+
+.footer-top-buffer {
+    margin-top: 22px;
+}
+
+
+#teal-bright {
+    color:#02C3C8;
+}
+
+#teal-mid {
+    color:#018E91;
+}
+
+#teal-dull {
+    color: #015A65;
+}
+
+#orange {
+    color: #F7501B;
+}
+
+#orange-light {
+    color: #FB7E21;
+}
